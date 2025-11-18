@@ -53,12 +53,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivammodi001&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammodi001&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivammodi1&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammodi1&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammodi001&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammodi1&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivammodi001&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivammodi1&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammodi001&theme=redical&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammodi1&theme=redical&area=true&hide_border=true" />
 </p>
 
 ---
