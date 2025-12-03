@@ -42,30 +42,16 @@
 
 ---
 
-## 📋 **About Me**
+### 🔥 About Me
 
-<div align="center">
-
-<table align="center">
-  <tr>
-    <td align="center" width="400">
-      <h3 style="color: #7E57C2;">🎓 Education & Background</h3>
-      <p>• <strong>B.Tech CSE</strong> at Lovely Professional University</p>
-      <p>• <strong>CGPA:</strong> 8.21/10</p>
-      <p>• <strong>Focus:</strong> Full-Stack Development</p>
-      <p>• <strong>Location:</strong> Punjab, India</p>
-    </td>
-    <td align="center" width="400">
-      <h3 style="color: #7E57C2;">🏆 Key Achievements</h3>
-      <p>• <strong>Winner</strong> – PARANOX 2.0 Hackathon</p>
-      <p>• <strong>Top 10</strong> – Zinnovatio 3.0 Hackathon</p>
-      <p>• <strong>4-star C++</strong> on HackerRank</p>
-      <p>• <strong>900+ DSA Problems</strong> solved</p>
-    </td>
-  </tr>
-</table>
-
-</div>
+```yaml
+Name:           Shivam Modi
+Role:           Full-Stack Engineer • AI Integration Specialist
+Education:      B.Tech CSE • Lovely Professional University (8.21 CGPA)
+Specialization: Scalable Web Apps • Real-time Architecture • AI-Powered Platforms
+Achievements:   Winner – PARANOX 2.0 • Top 10 – Zinnovatio 3.0 • Oracle Cloud Certified
+DSA:            900+ Problems • 4★ HackerRank C++ • Active on LeetCode
+```
 
 ---
 
