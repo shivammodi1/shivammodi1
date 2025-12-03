@@ -126,27 +126,26 @@ DSA:            900+ Problems • 4★ HackerRank C++ • Active on LeetCode
 
 <!-- Stats Row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivammodi1&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-       height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammodi1&layout=compact&theme=radical&hide_border=true" 
-       height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shivammodi1&show_icons=true&theme=dracula&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shivammodi1&layout=compact&theme=dracula&hide_border=true" height="180"/>
 </p>
 
-<!-- Streak Stats -->
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammodi1&theme=radical&hide_border=true" 
-       height="180"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shivammodi1&theme=dracula&hide_border=true" height="190" />
 </p>
+
+
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivammodi1&theme=radical&no-frame=true&row=2&column=4" 
+  <img src="https://github-profile-trophy.vercel.app/?username=shivammodi1&theme=dracula&no-frame=true&row=2&column=4" 
        height="180"/>
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammodi1&theme=radical&area=true&hide_border=true" 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammodi1&theme=dracula&area=true&hide_border=true" 
        height="300"/>
 </p>
 
