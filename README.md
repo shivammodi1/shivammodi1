@@ -191,10 +191,6 @@ DSA:            900+ Problems • 4★ HackerRank C++ • Active on LeetCode
 ### "The only way to do great work is to love what you do." - Steve Jobs
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shivammodi1&color=blue&style=flat-square" alt="Visitor Count"/>
-</p>
-
-<p>
  
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Shivam-26C6DA?style=for-the-badge" alt="Made by Shivam"/>
 </p>
