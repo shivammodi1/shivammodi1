@@ -176,8 +176,6 @@ DSA:            900+ Problems • 4★ HackerRank C++ • Active on LeetCode
 
 ---
 
-## 🐍 **Contribution Snake**
-
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/shivammodi1/shivammodi1/output/github-snake-dark.svg)
