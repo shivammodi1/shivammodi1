@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Title -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=7E57C2&center=true&vCenter=true&width=800&lines=👋+Hello%2C+I'm+Shivam+Modi;🚀+Full-Stack+Developer;💻+Competitive+Programmer;🏆+Hackathon+Winner" alt="Typing Header" />
 </h1>
@@ -9,7 +9,7 @@
   MERN Stack • AI Integration • Real-Time Systems • Cloud Certified
 </h3>
 
-<!-- Animated GIF Banner -->
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF5YXVieTZxMWdjNHAzeWF6cjZpZWFnYmk4cmtzN290bDE3M25hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" 
        alt="Developer GIF" 
