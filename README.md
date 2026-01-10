@@ -22,7 +22,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=26C6DA&center=true&vCenter=true&width=900&lines=✨+MERN+Stack+%7C+Next.js+%7C+Tailwind+%7C+Redis;🚀+Full-Stack+AI+%7C+Real-Time+Apps+%7C+Socket.io;🏆+Oracle+Cloud+Certified+%7C+900%2B+DSA+Problems;🔥+Building+Scalable+Solutions" alt="Skills Typing" />
 </p>
 
-<!-- Social Links with Animation -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shivammodi1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
