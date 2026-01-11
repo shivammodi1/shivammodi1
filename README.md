@@ -143,7 +143,7 @@ DSA:            900+ Problems • 4★ HackerRank C++ • Active on LeetCode
        height="180"/>
 </p>
 
-<!-- Contribution Graph -->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammodi1&theme=dracula&area=true&hide_border=true" 
        height="300"/>
