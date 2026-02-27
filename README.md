@@ -1,6 +1,4 @@
 <div align="center">
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=7E57C2&center=true&vCenter=true&width=800&lines=👋+Hello%2C+I'm+Shivam+Modi;🚀+Full-Stack+Developer;💻+Competitive+Programmer;🏆+Hackathon+Winner" alt="Typing Header" />
 </h1>
