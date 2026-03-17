@@ -135,7 +135,6 @@ DSA:            900+ Problems • 4★ HackerRank C++ • Active on LeetCode
 
 
 
-<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivammodi1&theme=dracula&no-frame=true&row=2&column=4" 
        height="180"/>
@@ -154,7 +153,6 @@ DSA:            900+ Problems • 4★ HackerRank C++ • Active on LeetCode
 ## 🎯 **Goals for 2025**
 
 <div align="center">
-
 <table align="center">
   <tr>
     <td align="center">
@@ -169,26 +167,15 @@ DSA:            900+ Problems • 4★ HackerRank C++ • Active on LeetCode
     </td>
   </tr>
 </table>
-
 </div>
-
 ---
-
 <div align="center">
-  
 ![Snake animation](https://raw.githubusercontent.com/shivammodi1/shivammodi1/output/github-snake-dark.svg)
-
 </div>
-
 ---
-
 <div align="center" style="margin-top: 40px;">
-
 ### "The only way to do great work is to love what you do." - Steve Jobs
-
 <p>
- 
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Shivam-26C6DA?style=for-the-badge" alt="Made by Shivam"/>
 </p>
-
 </div>
