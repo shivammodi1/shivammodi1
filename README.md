@@ -111,11 +111,16 @@ DSA: 900+ Problems • 4★ HackerRank C++ • Active on LeetCode
 
 ---
 
-## 🎯 Goals for 2026
+<div align="center">
 
-- Oracle Cloud Certified  
-- 1500+ DSA Problems  
-- Blockchain Mastery  
+| 🏆 **Achieved** | 🚀 **In Progress** | 🌟 **Future Goals** |
+|:---:|:---:|:---:|
+| ✅ Oracle Cloud Certified | ⏳ 1500+ DSA Problems | 🔜 Blockchain Mastery |
+| ✅ 900+ DSA Problems | ⏳ System Design Deep Dive | 🔜 Startup Launch |
+| ✅ 4★ HackerRank C++ | ⏳ Prompt Engineering | 🔜 Open Source Contributor |
+| ✅ Hackathon Winner | ⏳ AWS Certification | 🔜 Tech Blogging |
+
+</div>
 
 ---
 
