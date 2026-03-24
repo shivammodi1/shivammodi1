@@ -103,6 +103,13 @@ DSA: 900+ Problems • 4★ HackerRank C++ • Active on LeetCode
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammodi1&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
 ## 🐍 Contribution Snake
 
 
