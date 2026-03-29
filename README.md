@@ -48,20 +48,6 @@ Status   : Open to Opportunities ✅
 
 ---
 
-<!-- WORKING ON GIF -->
-<div align="center">
-<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF5YXVieTZxMWdjNHAzeWF6cjZpZWFnYmk4cmtzN290bDE3M25hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/> </p>
-  
-### 🔥 Currently Working On
-
-![EliteCode](https://img.shields.io/badge/🧠_EliteCode-AI_Coding_Platform-C850C0?style=for-the-badge)
-![DSA Grind](https://img.shields.io/badge/💪_DSA_Grind-1500+_Target-FF6B6B?style=for-the-badge)
-![AWS](https://img.shields.io/badge/☁️_AWS-Certification-4158D0?style=for-the-badge)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -105,7 +91,7 @@ Status   : Open to Opportunities ✅
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200"/>
 </div>
 
 <br/>
