@@ -5,7 +5,7 @@
 
 </div>
 
-<!-- ANIMATED TYPING -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=C850C0&center=true&vCenter=true&width=750&lines=🚀+MERN+Stack+%7C+Next.js+%7C+AI+Integration;⚡+Real-Time+Systems+%7C+Socket.io+%7C+Redis;🏆+PARANOX+2.0+Winner+%7C+Oracle+Certified;💻+900%2B+DSA+Problems+%7C+4★+HackerRank;🔥+Building+Products+That+Matter" alt="Typing SVG" />
