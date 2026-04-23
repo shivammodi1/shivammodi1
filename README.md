@@ -1,4 +1,4 @@
-<!-- HEADER -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:C850C0,100:4158D0&height=280&section=header&text=Shivam%20Modi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Architect%20%7C%20Hackathon%20Winner&descSize=20&descAlignY=60&descColor=FFE0FF" width="100%"/>
@@ -35,7 +35,6 @@ Status   : Open to Opportunities ✅
 
 ---
 
-<!-- SOCIAL BADGES -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivammodi1/)
