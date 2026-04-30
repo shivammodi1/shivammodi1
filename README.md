@@ -14,7 +14,7 @@
 
 <br/>
 
-<!-- CODING GIF + ABOUT ME SIDE BY SIDE -->
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="280"/>
 
 ### 👨‍💻 About Me
@@ -251,3 +251,5 @@ Status   : Open to Opportunities ✅
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FF6B6B&height=120&section=footer&text=Let's+Connect+%26+Build+Together!&fontSize=20&fontColor=white&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
+---
